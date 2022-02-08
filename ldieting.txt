@@ -13,3 +13,12 @@
 #ldieting
 #git pull
 Read:me file.
+git fetch 
+git merge
+git pull
+
+git add README.md
+git commit
+Nachritcht eingeben
+Escape:wq
+git push
