@@ -1,1 +1,12 @@
-bingus
+C:\Users\Alexander>git clone https://github.com/Dxdii/Test_ldieting_amaxner
+C:\Users\Alexander>cd Test_ldieting_amaxner
+C:\Users\Alexander\Test_ldieting_amaxner>git config --global git.email "amaxner@htl-steyr.ac.at"
+C:\Users\Alexander\Test_ldieting_amaxner>git add amaxner.txt
+C:\Users\Alexander\Test_ldieting_amaxner>git commit
+#es öffnet sich ein Editor
+#beim untersten '#' wird das Kommentar geschrieben
+#Esc und : gedrückt
+:wq
+C:\Users\Alexander\Test_ldieting_amaxner>git fetch
+C:\Users\Alexander\Test_ldieting_amaxner>git merge
+C:\Users\Alexander\Test_ldieting_amaxner>git push
