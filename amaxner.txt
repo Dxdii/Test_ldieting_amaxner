@@ -10,3 +10,4 @@ C:\Users\Alexander\Test_ldieting_amaxner>git commit
 C:\Users\Alexander\Test_ldieting_amaxner>git fetch
 C:\Users\Alexander\Test_ldieting_amaxner>git merge
 C:\Users\Alexander\Test_ldieting_amaxner>git push
+#auf github.com README.md direkt editiert und in die zweite Zeile "Alexander Maxner :)" geschrieben
