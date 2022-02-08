@@ -11,3 +11,8 @@ C:\Users\Alexander\Test_ldieting_amaxner>git fetch
 C:\Users\Alexander\Test_ldieting_amaxner>git merge
 C:\Users\Alexander\Test_ldieting_amaxner>git push
 #auf github.com README.md direkt editiert und in die zweite Zeile "Alexander Maxner :)" geschrieben
+C:\Users\Alexander\Test_ldieting_amaxner>git pull
+#im README.md am Rechner in die 4. Zeile "amaxner@htl-steyr.ac.at" geschrieben
+C:\Users\Alexander\Test_ldieting_amaxner>git add README.md
+C:\Users\Alexander\Test_ldieting_amaxner>git push
+#kurz vor Dietinger gepusht, zugesehen wie Konflikt gelöst wurde
