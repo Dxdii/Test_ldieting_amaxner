@@ -3,6 +3,7 @@
 #git config --global user.name "FIRST_NAME LAST_NAME"
 #3.	Set your email address:
 #git config --global user.email MY_NAME@example.com
+Hinzufügen von Dateien
 #4.	Git add ldieting.txt
 #5.	Git commit
 #im editor message eingeben Escape:wq
@@ -12,13 +13,20 @@
 #Git push
 #ldieting
 #git pull
+Das zweite Teammitglied muss das Repository aktualisieren!
+Das zweite Teammitglied fügt seinen Namen in README ein und spielt die Änderungen ein
 Read:me file.
 git fetch 
 git merge
 git pull
-
 git add README.md
 git commit
 Nachritcht eingeben
 Escape:wq
+git push
+
+Spielen Sie die Änderungen ein! Was passiert? Wie kann man die Situation lösen?
+Im README.md File die änderungen aktualisieren
+git add README.md
+git committ
 git push
