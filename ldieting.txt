@@ -25,8 +25,10 @@ Nachritcht eingeben
 Escape:wq
 git push
 
+git pull
 Spielen Sie die Änderungen ein! Was passiert? Wie kann man die Situation lösen?
 Im README.md File die änderungen aktualisieren
 git add README.md
 git committ
 git push
+
