@@ -1,6 +1,5 @@
-public class ldieting implements TellYourName {
-    @Override
-    public void tell() {
-        System.out.println("Lukas Dietinger");
+public class ldieting {
+    public static void main(String[] args) {
+        System.out.println("lukas Dietinger");
     }
 }
