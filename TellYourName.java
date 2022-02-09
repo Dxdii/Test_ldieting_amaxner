@@ -1,3 +1,0 @@
-interface TellYourName{
-     void tell();
-}
